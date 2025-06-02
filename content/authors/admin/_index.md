@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: R Pranav Sastha
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Khagastra
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pranav
+last_name: Sastha
 
 # Status emoji
 status:
