@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Khagastra. My blog"
+title: "Ravi Pranav Sastha"
 date: 2022-10-24
 type: landing
 
@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: 'resume-biography-3'
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -35,7 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        i like to research about 
+        I am Currently Researching on Turtles ig.
+        I lied i am currently unemployed
         
         Please reach out to collaborate 😃
     design:
@@ -43,23 +44,14 @@ sections:
   - block: collection
     id: papers
     content:
-#      title: Featured Publications
-#     filters:
-#      folders:
-#       - publication
-#   featured_only: true
-#   design:
-#    view: article-grid
-#   columns: 2
-     - block: collection
-    content:
+     
       title: Recent Publications
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
-  design:
+    design:
       view: citation
   - block: collection
     id: talks
