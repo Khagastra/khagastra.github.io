@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       
-         I am Currently Researching on Turtles ig.
+        I am Currently Researching on Turtles ig.
         I lied i am currently unemployed
         
         Please reach out to collaborate 😃
+    design:
     design:
       columns: '1'
   - block: collection
