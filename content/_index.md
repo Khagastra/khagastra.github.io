@@ -39,10 +39,6 @@ sections:
         I lied i am currently unemployed
         
         Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
 
       # Page type to display. E.g. post, talk, publication...
       page_type: post
