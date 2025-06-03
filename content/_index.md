@@ -39,7 +39,7 @@ sections:
         I lied i am currently unemployed
         
         Please reach out to collaborate 😃
-- block: collection
+  - block: collection
     id: news
     content:
       title: Recent News
