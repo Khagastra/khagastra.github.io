@@ -38,11 +38,11 @@ sections:
         I am Currently Researching on Turtles ig.
         I lied i am currently unemployed
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate 
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: My blog
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
