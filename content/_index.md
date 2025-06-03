@@ -40,12 +40,11 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-    design:
       columns: '1'
   - block: collection
     id: papers
-#    content:
-#      title: Featured Publications
+    content:
+      title: Featured Publications
       filters:
         folders:
           - publication
