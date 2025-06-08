@@ -24,27 +24,27 @@ role: Medico
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: K B Ravi 
-    url: https://openai.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:khagastra@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/khagastra
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/khagastra
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/khagastra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/khagastra
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/khagastra
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
   - Medicine
@@ -53,7 +53,7 @@ interests:
   - World
 
 education:
-  - area: MBBS
+  - area: Unemployed
     institution: have'nt joined yet
     date_start: 2016-01-01
     date_end: 2020-12-31
